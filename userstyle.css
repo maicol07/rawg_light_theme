@@ -1,0 +1,235 @@
+body {
+	color: #000;
+	background-color: #fff;
+}
+
+.heading,
+.logo,
+.header__search__suggestions__container .dropdown__content .header__search__suggestions__section .header__search__suggestions__section__title .header__search__suggestions__section__title_info,
+.tab_active,
+.tab_active:hover,
+.content-stats__item-name,
+.content-stats__item-count,
+.years-stats-chart__bar__year-text,
+.platforms__additional,
+.game-card-compact__heading {
+	color: #000;
+}
+
+a,
+.header__search__input::placeholder,
+.header__item,
+.header__search__input,
+.header__search__hotkey-help__wrap,
+.header__search__suggestions__container .dropdown__content .header__search__suggestions__section .header__search__suggestions__section__title .header__search__suggestions__section__title_info .header__search__suggestions__section__title_count,
+.search-results__user-card,
+.header__search__suggestions__container .dropdown__content .search-results .search-results__item .collection-card .collection-card__meta .collection-card__title,
+.header__search__suggestions__container .dropdown__content .search-results .search-results__item .collection-card .collection-card__meta .collection-card__count,
+.discover-sidebar__link:hover,
+.filter-button,
+.input-search-with-info .input-search__input::placeholder,
+.category-container.available .category-container__header:hover .category-container__arrow-icon,
+.category-container.available .category-container__header:hover .category-container__title,
+.game-card-about__term,
+.discover-filter-button,
+.game-card-button__inner,
+.add-game-card,
+.meta-stats__line-count,
+.meta-stats__line-index,
+.discover-sidebar__link_active,
+.review-form__text-subtitle,
+.editor,
+.review-form__reactions-title,
+.subpage-menu__link_active,
+.breadcrumbs__name,
+.game__ratings-review-button:hover .SVGInline-svg.game__ratings-review-button__icon-svg,
+.game__head-meta,
+.game__edit__last-modified-str,
+.game__availability-item,
+.truncate-block__button:hover,
+.game__meta-title,
+.breadcrumbs__item,
+.user-card-similar__name,
+.user-card-similar__text,
+.follow-button,
+.tab:not(.tab_active),
+.status-block,
+.connect-button_disconnect {
+	color: rgba(0, 0, 0, .9) !important;
+}
+
+.header__search__input {
+	background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScxNCcgaGVpZ2h0PScxNCcgdmlld0JveD0nMCAwIDE0IDE0Jz48cGF0aCBmaWxsLXJ1bGU9J2V2ZW5vZGQnIGQ9J005LjIwMiAzLjAyNmE0LjM2NyA0LjM2NyAwIDEwLTYuMTc2IDYuMTc2IDQuMzY3IDQuMzY3IDAgMTA2LjE3Ni02LjE3Nm00LjU0MyAxMC43MTlhLjg3NS44NzUgMCAwMS0xLjIzNiAwbC0yLjc1MS0yLjc1MmMtMi4zOTUgMS43OS01Ljc5MSAxLjYyMS03Ljk2Ny0uNTU1YTYuMTEzIDYuMTEzIDAgMDEwLTguNjQ3IDYuMTEzIDYuMTEzIDAgMDE4LjY0NyAwYzIuMTc2IDIuMTc2IDIuMzQ2IDUuNTcyLjU1NSA3Ljk2N2wyLjc1MiAyLjc1MWMuMzQuMzQxLjM0Ljg5NCAwIDEuMjM2Jy8+PC9zdmc+);
+}
+
+.header__search__hotkey-help-key {
+	border-color: rgba(0, 0, 0, .9);
+}
+
+.header__item-link:hover,
+.tab_active .tab__name,
+.tab_active:hover .tab__name,
+.input-search-with-info:hover {
+	border-bottom-color: black;
+}
+
+.header__notifications-icon,
+.header__add-game-icon,
+.header__browse-menu__dotted-label_more,
+.platforms__platform,
+.user-card__meta-counter,
+.SVGInline.input-search__icon,
+.discover-filter-button .select-button__icon_arrow,
+.mode-select__item,
+.SVGInline-svg.arrow__icon-svg,
+.subpage-heading__back-arrow svg,
+.review__close-button:not(:hover) .close-button__icon svg,
+.btn-wishlist,
+.btn-collection,
+.game__ratings-review-button:not(:hover) .SVGInline-svg.game__ratings-review-button__icon-svg,
+.game-header__arrow-icon svg,
+.game__availability .SVGInline-svg,
+.show-more-button__icon,
+.account-card_default .account-card__icon {
+	filter: invert(1);
+}
+
+.user-card__meta-counter,
+.profile-sharing__buttons,
+.profile-common-developers,
+.persons-slider-card a,
+.review-card__game-title,
+.review-card__reaction,
+.review-card__user-link {
+	color: white !important;
+}
+
+.header__search__suggestions__container .dropdown__content,
+.profile-games__filter .filter,
+.category-container__header,
+.game-card-medium__wrapper,
+.discover-filter-button,
+.review-card.review-card_short,
+.game-header,
+.btn-add-game__content {
+	background-color: #eaeaea;
+}
+
+.dropdown-content {
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.51)
+}
+
+.header__search__input,
+.discover-sidebar__link:hover .discover-sidebar__icon,
+.add-game-card,
+.add-game-card:not(.add-game-card_disabled):hover,
+.content-stats__item-percent-full,
+.review-form {
+	background-color: hsla(0, 0%, 59.2%, .2);
+}
+
+
+.page:not(.game) .art {
+	background-image: linear-gradient(to top, rgba(0, 0, 0, 0), hsla(0, 0%, 59.2%, .2)) !important;
+}
+
+.button_fill,
+.show-more-button,
+.toggle-button,
+.review__close-button,
+.editor,
+.reaction,
+.game__ratings-review-button:hover,
+.game__edit-button:hover,
+.game__availability-item,
+.account-card {
+	background-color: rgba(14, 14, 14, 0.08);
+}
+
+.discover-sidebar__icon-svg,
+.discover-sidebar__icon-svg path,
+.game-card-button g,
+.game-card-button path,
+.game-card-button svg {
+	fill: #151515;
+}
+
+.discover-sidebar__link:hover,
+.game__meta-title {
+	opacity: .8
+}
+
+.select-button__content:hover .select-button__icon,
+.select-button__content:hover .select-button__title,
+.add-game-card:not(.add-game-card_disabled):hover {
+	opacity: 1;
+}
+
+.game__availability-item:hover {
+	background-color: rgba(14, 14, 14, .17);
+}
+
+.filter-button .select-button__icon_check, .game-posts__add-card:not(:hover) {
+	filter: brightness(0.4);
+}
+
+.btn-add-game:hover,
+.follow-button {
+	filter: brightness(0.8);
+}
+
+.category-container__header {
+	padding: 16px 16px 16px;
+	margin: 16px 0;
+	border-radius: 4px;
+}
+
+.input-search-with-info,
+.game-card-about_table > .game-card-about__item:not(:last-child) {
+	border-bottom-color: rgba(0, 0, 0, .31);
+}
+
+/* Add border to some buttons */
+.game-card-button_light,
+.game__ratings-review-button,
+.game__edit-button,
+.follow-button {
+	border: 1px solid rgba(0, 0, 0, .09);
+}
+
+.add-game-card {
+	opacity: .7
+}
+
+.content-stats__stat:first-child {
+	border-right-color: rgba(0, 0, 0, .31);
+}
+
+.content-stats__stat:last-child {
+	border-left-color: rgba(0, 0, 0, .31);
+}
+
+.profile .card-template {
+	box-shadow: 0 2.5px 5px 0 rgba(0, 0, 0, .2);
+}
+
+.profile-reviews__review .review-card__date {
+	color: hsla(0, 0%, 100%, .2) !important
+}
+
+.game-header__label a,
+a.game-header__label {
+	text-decoration: underline rgba(0, 0, 0, .31);
+}
+
+.game__screenshots-all:hover .game__screenshots-all__decor {
+	opacity: .4
+}
+
+.tab:not(.tab_active) {
+	filter: invert(0.2);
+}
+
+.connect-button_disconnect {
+	border: none;
+}
